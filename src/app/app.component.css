@@ -1,0 +1,14 @@
+
+.login-content{
+    height: 100vh;
+}
+form{
+    width: 45rem;
+    height: 80vh;
+
+    border: 1px solid gold;
+    padding: 1rem;
+    border-radius:15px; 
+    opacity: .8;
+}
+
